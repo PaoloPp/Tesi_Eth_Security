@@ -1,0 +1,6 @@
+Documentazione
+
+1. Installazione Geth per Ubuntu:
+    add-apt-repository -y ppa:ethereum/ethereum
+    apt-get update
+    apt-get install ethereum
